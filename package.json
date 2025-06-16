@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://kehth.github.io/proyFinal",
+  "homepage": "https://kehth.github.io/proyFinal",
   "scripts": {
     "predeploy":"npm run build",
     "deploy":"gh-pages -d dist",
